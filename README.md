@@ -2,10 +2,10 @@
 Determine the number of K-Length paths between two nodes in a directed graph using matrix multiplications in x86 Assembly.
 ## Prompts
 1. file _0
-    - 1 prints to STDOUT the adjacency matrix
-    - 2 prints to STDOUT the number of K-Length paths between nodes S and D with a statically allocated adjacency matrix
+    - [1] prints to STDOUT the adjacency matrix
+    - [2] prints to STDOUT the number of K-Length paths between nodes S and D with a statically allocated adjacency matrix
 2. file _1
-    - 3 prints to STDOUT the number of K-Length paths between nodes S and D with a dynamically allocated adjacency matrix using mmap2
+    - [3] prints to STDOUT the number of K-Length paths between nodes S and D with a dynamically allocated adjacency matrix using mmap2
 
 ### STDIN for prompt 1
 ```
