@@ -9,7 +9,7 @@ Determine the number of K-Length paths between two nodes in a directed graph usi
 
 ### STDIN for prompt 1
 ```
-P                                         # prompt number (1 or 2)
+P                                         # prompt number (in this case 1)
 N <= 100                                  # node number 
 N lines: M(0), M(1), ..., M(N-1)          # each line represents the outdegree of each node
 M(I) lines, I = 0, 1, ..., N-1            # on each line there is a neighbour of node I
@@ -17,7 +17,7 @@ M(I) lines, I = 0, 1, ..., N-1            # on each line there is a neighbour of
 
 ### STDIN for prompts 2 and 3
 ```
-P                                         # prompt number (1 or 2)
+P                                         # prompt number (in this case 2 or 3)
 N <= 100                                  # nodes number 
 N lines: M(0), M(1), ..., M(N-1)          # each line represents the outdegree of each nodes
 M(I) lines, I = 0, 1, ..., N-1            # on each line there is a neighbour of nodes I
