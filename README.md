@@ -1,5 +1,5 @@
 # K-Length-Paths-Between_Two_Vertixes
-Determine the number of K-Length paths between two vertixes in an directed graph using matrix multiplications in x86 Assembly.
+Determine the number of K-Length paths between two vertixes in a directed graph using matrix multiplications in x86 Assembly.
 ## Prompts
 1. file _0
     - 1 prints to STDOUT the adjacency matrix
